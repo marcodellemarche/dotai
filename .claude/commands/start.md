@@ -1,0 +1,1 @@
+Read CLAUDE.md fully, then read .ai/CONVENTIONS.md, then read .ai/CONTEXT.md. Summarize the current project state in 3–5 bullet points, then ask: "What do you want to work on this session?" Wait for my answer before doing anything else. One objective per session.
